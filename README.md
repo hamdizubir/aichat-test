@@ -1,8 +1,10 @@
 # Getting Started 
 
-## Available Scripts
+## Run Command below to run the app
 
-In the project directory, you can run:
+### `npm install`
+
+Install the package needed to run the application
 
 ### `npm start`
 
