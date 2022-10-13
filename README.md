@@ -1,3 +1,7 @@
+# Intro
+
+This app is built to comply AiChat frontend coding test, it's a simple app to search and save movies using OMDB API.
+
 # Getting Started 
 
 ## Run Command below to run the app
